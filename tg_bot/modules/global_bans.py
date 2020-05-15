@@ -77,7 +77,7 @@ def gban(bot: Bot, update: Update, args: List[str]):
 
     if sql.is_user_gbanned(user_id):
         if not reason:
-            message.reply_text("This user is already gbanned; I'd change the reason, but you haven't given me one...")
+            message.reply_text("This user is already gbanned; I'd change the reason, but you haven't given me one. For Support @aniesupport")
             return
 
         old_reason = sql.update_gban_reason(user_id, user_chat.username or user_chat.first_name, reason)
@@ -303,7 +303,7 @@ __help__ = """
 
 Gbans, also known as global bans, are used by the bot owners to ban spammers across all groups. This helps protect \
 you and your groups by removing spam flooders as quickly as possible. They can be disabled for you group by calling \
-/gbanstat
+/gbanstat .For Support Join @aniesupport
 """
 
 __mod_name__ = "Global Bans"
