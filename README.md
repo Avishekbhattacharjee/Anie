@@ -1,19 +1,24 @@
-# Marie-2.0-English
+![Anie](https://avatarfiles.alphacoders.com/207/207588.jpg)
+# Anie Robot 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Avishekbhattacharjee/SaitamaRobot.git)
+ 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [idealhelp](https://t.me/idealhelpbot).
+Can be found on telegram as [Anie](https://t.me/aniebot).
 
-Marie and I are moderating a [support group](https://t.me/MarieSupport), where you can ask for help setting up your
+Marie and I are moderating a [support group](https://t.me/anieSupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/idealhelpnews) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/anienews) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/avishekbhattacharjee)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/denzid)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
