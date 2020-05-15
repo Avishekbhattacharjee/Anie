@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot With Some Extra Features.
 
-My future updates will be put into This Channel - @ & My Support Group @aniehelp.
+My future updates will be put into This Channel - @ & My Support Group @aniesupport.
 
 For more commands click /help...
 
